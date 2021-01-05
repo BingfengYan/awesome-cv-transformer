@@ -7,3 +7,4 @@ transformer for cv
 3. TransTrack: Multiple-Object Tracking with Transformer [paper](https://arxiv.org/abs/2012.15460) [code](https://github.com/PeizeSun/TransTrack) 
 4. End-to-end Lane Shape Prediction with Transformers [paper](https://arxiv.org/abs/2011.04233) [code](https://github.com/liuruijin17/LSTR) 
 5. Taming Transformers for High-Resolution Image Synthesis  [code](https://github.com/CompVis/taming-transformers)
+6. Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving 
