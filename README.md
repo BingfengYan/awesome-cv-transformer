@@ -9,3 +9,4 @@ summary: Transformers in Vision: A Survey [paper](http://link.zhihu.com/?target=
 4. End-to-end Lane Shape Prediction with Transformers [paper](https://arxiv.org/abs/2011.04233) [code](https://github.com/liuruijin17/LSTR) 
 5. Taming Transformers for High-Resolution Image Synthesis  [code](https://github.com/CompVis/taming-transformers)
 6. Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving 
+7. Transformer for Image Quality Assessment [paper](https://arxiv.org/abs/2101.01097) [code](https://github.com/junyongyou/triq) 
