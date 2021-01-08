@@ -12,3 +12,4 @@ summary: Transformers in Vision: A Survey [paper](http://link.zhihu.com/?target=
 7. Transformer for Image Quality Assessment [paper](https://arxiv.org/abs/2101.01097) [code](https://github.com/junyongyou/triq) 
 8. Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations [paper](https://www.aclweb.org/anthology/D19-1016/) [code](https://github.com/zhongpeixiang/KET) 
 9. End-to-End Video Instance Segmentation with Transformers 
+10 Taming Transformers for High-Resolution Image Synthesis [paper](https://arxiv.org/abs/2012.09841) [code](https://github.com/CompVis/taming-transformers) 
